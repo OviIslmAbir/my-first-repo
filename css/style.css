@@ -1,0 +1,10 @@
+.blog{
+    background-color: blueviolet;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    margin:auto;
+    margin-top: 20px;
+    box-sizing: 50px 50px 10px gray;
+}
